@@ -1,0 +1,44 @@
+.box1{
+    background-color: grey;
+    color: beige;
+    height: 60%;
+    width: 40%;
+    text-align: center;
+    margin-left: 30%;
+    font-size: 30px;
+    border-radius: 20px;
+     border-style: solid;
+    border-color: bisque;
+    border-width: 10px;
+}
+.head{
+    background-color: blueviolet;
+    color: antiquewhite;
+    border-radius: 30px;
+    padding-right:50%;
+    display: inline-block;
+    margin-left: 60px;
+    position: fixed;
+    top: -20px;
+    font-size: 35px;
+}
+.box2{
+     background-color: grey;
+    height: 60%;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    font-size:28px;
+    border-radius: 20px;
+    color: antiquewhite;
+    border-style: solid;
+    border-color: bisque;
+    border-width: 10px;
+}
+body{
+    background-image: url(trek2.jpg);
+    background-size: cover;
+}
+h1{
+    color: antiquewhite;
+}
